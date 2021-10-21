@@ -1,3 +1,9 @@
-Exemplo file1
-Alterei o file1
-Alterações efetuadas no branch NOVAFEATURE
+Este é o exemplo de um ficheiro.
+
+Estou a fazer alterações ao ficheiro.
+
+ALTERACOES EFETUADAS NO BRANCH 'NOVAFEATURE'
+
+ALTERACOES EM NOVAFEATURE
+
+ALTERACOES EM MASTER
